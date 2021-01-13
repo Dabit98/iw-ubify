@@ -1,0 +1,18 @@
+App
+Clase cliente a user
+APP/Http
+ClienteController adaptarlo a usuario
+
+Database/migrations
+tabla cliente ruta table
+tabla pagos
+
+Database/Seeds
+modificar databaseseeders
+
+
+Resources/views/clientes
+Hacerlo para user, teniendo modificado el controlador
+
+Routes/web.php
+Cambiar de cliente a usuarios.

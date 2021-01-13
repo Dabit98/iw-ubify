@@ -1,0 +1,120 @@
+*{
+    background-color: honeydew;
+}
+
+nav {
+    background-color: #434343;
+    text-align: center;
+}
+
+.nav-boton {
+    display: inline-block;
+    background: #434343;
+    color: #fff;
+    text-decoration: none;
+    font-size: 125%;
+    padding: 1%;
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-boton:hover {
+    background: #505050;
+}
+
+.tabla-cliente {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.td-inicio {
+    border: solid 1px black;
+    color: #fff;
+    background-color: #434343;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    width: 33%;
+    text-align: center;
+}
+
+.titulos {
+    text-align: center;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto-td {
+    background-color: transparent;
+    text-align: center;
+}
+
+.img-td {
+    background-color: transparent;
+    width: 20%;
+    padding-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.boton-regcliente {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    background-color:#2d3e45;
+    border-radius: 4px;
+    border: 2px solid #182d36;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    max-width: 100%;
+    
+}
+
+.boton-regconductor {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    background-color:#2d3e45;
+    border-radius: 4px;
+    border: 2px solid #182d36;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    max-width: 100%;
+}
+
+.tabla-pie {
+    padding-top: 4%;
+    margin: auto;
+    text-align: center;
+    width: 100%; 
+}
+
+.td-pie {
+    border: solid 1px black;
+    color: #fff;
+    background-color: #434343;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botonviajar{
+
+  text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    background-color:#2d3e45;
+    border-radius: 4px;
+    border: 2px solid #182d36;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    max-width: 100%;
+
+}

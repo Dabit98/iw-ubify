@@ -1,0 +1,41 @@
+*{
+    background-color: honeydew;
+}
+
+nav {
+    background-color: #434343;
+    text-align: center;
+}
+
+.nav-boton {
+    display: inline-block;
+    background: #434343;
+    color: #fff;
+    text-decoration: none;
+    font-size: 125%;
+    padding: 1%;
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-boton:hover {
+    background: #505050;
+}
+
+.texto-td {
+    background-color: transparent;
+}
+
+.td-pie {
+    border: solid 1px black;
+    color: #fff;
+    background-color: #434343;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabla-pie {
+    padding-top: 4%;
+    margin: auto;
+    text-align: center;
+    width: 100%; 
+}

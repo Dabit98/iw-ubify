@@ -1,0 +1,45 @@
+*{
+  background-color: honeydew;
+}
+
+.form-Registro{
+  width: 400px;
+  margin: auto;
+  border-radius: 4px;
+  font-family: 'cursive';
+  color: black;
+  text-align: center;
+}
+
+.control{
+  width: 100%;
+  padding: 4pt;
+  border-radius: 5px;
+  border-color: black;
+  font-size: 16pt;
+}
+
+.form-Registro h1{
+  font-size: 20pt;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form-Registro .boton{
+  width: auto;
+  border-color: #85C1E9;
+  color: black;
+  background-color: #85C1E9;
+  font-size: 20pt;
+  margin-top: 7pt;
+}
+
+.alerta-error {
+  text-align: center;
+  background-color: rgb(255, 115, 115);
+  border-radius: 20pt;
+  width: 70%;
+}
+
+.alerta-error p {
+  background-color: rgb(255, 115, 115);
+}

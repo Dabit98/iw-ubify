@@ -1,0 +1,13 @@
+*{
+    background-color: honeydew;
+}
+
+.boton{
+    width: auto;
+    border-color: #85C1E9;
+    color: black;
+    background-color: #85C1E9;
+    font-size: 20pt;
+    margin: auto;
+    margin-top: 40pt;
+}
